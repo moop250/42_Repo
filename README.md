@@ -35,6 +35,8 @@ Here you will find any 42 related side projects I have made:
 
 - **[extended_ft](https://github.com/moop250/extended_ft)**: This repo is my effort to expand and improve upon the libft project to include extra useful functions and other completed projects.
 
+- **[piscine](https://github.com/moop250/piscine)**: This repo contains all the exercises and projects I did during my piscine at 42 Lausanne. 
+
 ## Connect with Me
 
 I am always open to discussions, queries, and collaborations. Feel free to connect:

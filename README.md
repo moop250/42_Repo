@@ -35,7 +35,9 @@ Here you will find any 42 related side projects I have made:
 
 - **[extended_ft](https://github.com/moop250/extended_ft)**: This repo is my effort to expand and improve upon the libft project to include extra useful functions and other completed projects.
 
-- **[piscine](https://github.com/moop250/piscine)**: This repo contains all the exercises and projects I did during my piscine at 42 Lausanne. 
+- **[piscine](https://github.com/moop250/piscine)**: This repo contains all the exercises and projects I did during my piscine at 42 Lausanne.
+
+- **[nvim config](https://github.com/moop250/42-nvim)**: This repo contains my fork of the 42-nvim project, customized to my needs with additional plugins added on top. 
 
 ## Connect with Me
 

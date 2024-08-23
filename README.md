@@ -23,11 +23,11 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 - **[Philosophers](https://github.com/moop250/Philosophers)** I have a couple grey hairs from this project but it was very interesting, im probably gonna add multithreading to so_long.
 
+- **[minishell](https://github.com/moop250/minishell)** My hair is now completely grey, this project took way too long, i cannot wait to start working on C++ 😭 
+
 ## Current Project
 
 Here you will find the project(s) that I am working on:
-
-- **[minishell](https://github.com/moop250/minishell)** This project seems tough, an entire shell? wish me luck.
 
 ## Extras
 

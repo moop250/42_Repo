@@ -27,6 +27,8 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 ## Current Project
 
+- [C++](https://github.com/moop250/42_Cpp)
+  
 Here you will find the project(s) that I am working on:
 
 ## Extras

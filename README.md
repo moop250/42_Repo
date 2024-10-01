@@ -29,6 +29,8 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 - [C++](https://github.com/moop250/42_Cpp)
   
+- [NetPractice](https://github.com/moop250/NetPractice)
+  
 Here you will find the project(s) that I am working on:
 
 ## Extras

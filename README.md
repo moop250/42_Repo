@@ -25,13 +25,15 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 - **[minishell](https://github.com/moop250/minishell)** My hair is now completely grey, this project took way too long, i cannot wait to start working on C++ 😭 
 
+- **[NetPractice](https://github.com/moop250/NetPractice)** This was nice and easy 🙏 Just learning about how networks, subnets, masking, and routing. (tbf my cisco certificate probably helped a bumch lol)
+
+- **[cub3D + Partial Bonus](https://github.com/moop250/cub3d)** Apart from the neverending stream of bug fixes, this was a super fun project, while I do not understand the math behind raycasting, I now understand the logic. I worked mainly on the parsing, it wasnt *simple* but it wasnt too hard either, in the end its 90% error handeling and making sure memory is freed correctly. But hey at the end of the day, was fun, we got a good score, and I'm satisfied.
+
 ## Current Project
+Here you will find the project(s) that I am working on:
 
 - [C++](https://github.com/moop250/42_Cpp)
-  
-- [NetPractice](https://github.com/moop250/NetPractice)
-  
-Here you will find the project(s) that I am working on:
+
 
 ## Extras
 

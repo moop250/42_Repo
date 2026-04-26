@@ -31,7 +31,7 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 - **[C++](https://github.com/moop250/42_Cpp)** I really enjoyed learning C++, it feels like a version of C thats a little easier to work with, while keeping the syntax and logic that I enjoy very much
 
-- **[Webserv](https://github.com/moop250/webserv)** Webserv was a long, but satisfying project, I personally worked on the networking side of things which was a nice learing experience to find out how tools that I've been using forever (like Nginx) actually work in the background. It was tough, and a lot of work, but we balling
+- **[Webserv + Bonus](https://github.com/moop250/webserv)** Webserv was a long, but satisfying project, I personally worked on the networking side of things which was a nice learing experience to find out how tools that I've been using forever (like Nginx) actually work in the background. It was tough, and a lot of work, but we balling
 
 ## Current Project
 Here you will find the project(s) that I am working on:

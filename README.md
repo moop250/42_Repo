@@ -33,10 +33,12 @@ I am proud to showcase my completed projects which allow me to see just how far 
 
 - **[Webserv + Bonus](https://github.com/moop250/webserv)** Webserv was a long, but satisfying project, I personally worked on the networking side of things which was a nice learing experience to find out how tools that I've been using forever (like Nginx) actually work in the background. It was tough, and a lot of work, but we balling
 
+- **[Transcendence](https://github.com/moop250/ft_transcendence)** Transcendence is a project worthy of its title, it's the largest scale project I have ever had to work on for 42, and doing it as a team of 3, was not ideal. In any case, I think i did good work, for my first time working on a front end interface, I don't think I did too badly, though I never wish to make a front end of this scale ever again without a framework ^^;. 
+
 ## Current Project
 Here you will find the project(s) that I am working on:
 
-- **[Transcendence](https://github.com/moop250/ft_transcendence)**
+- My internship!
 
 ## Extras
 

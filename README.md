@@ -1,8 +1,8 @@
 # My 42 Cursus Repository
 
-<img src="https://camo.githubusercontent.com/bceb89d6fd60ec75292970cfd163a9913a93d58152bc08817214fd925d3236e4/68747470733a2f2f34326c617573616e6e652e63682f77702d636f6e74656e742f75706c6f6164732f323032312f30312f34325f6c6f676f2e737667" width="40" alt="42 logo"> 
+<img src="assets/42_logo.png" alt="42 Logo" height="100"/>
 
-Welcome to my repository, an archive of the projects I've done and am working on while at [42
+Welcome to my repository, an archive of the projects I've done and am working on while at 42 Lausanne
 ## Finished Projects
 
 I am proud to showcase my completed projects which allow me to see just how far I've come:
